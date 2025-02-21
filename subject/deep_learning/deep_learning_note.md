@@ -1,15 +1,3 @@
-# Study Notes Collection
-
-Automatically compiled from subdirectories.
-
-## resource\reference
-
-
-
----
-
-## subject\deep_learning\deep_learning_note
-
 # Deep Learning Notes
 
 ## Introduction
@@ -26,18 +14,3 @@ Deep Learning is a subset of Machine Learning focused on neural networks with mu
 
 ## References
 - Paper: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
-
----
-
-## subject\topic1\topic1_note
-
-
-
----
-
-## subject\topic2\topic2_note
-
-
-
----
-

@@ -8,6 +8,16 @@ Automatically compiled from subdirectories.
 
 ---
 
+## subject\21022025_driverless_train\driverless_train_note
+
+## Date: 21.02.2025
+- ECTS: European Train Control System. ETCS Lines usually Equipped with ETCS technology, which enables continuous communication between the train and trackside equipment. This enhances safety and interoperability across borders in Europe.
+- ARTE: Automated Regional Trains in Lower Saxony.
+- ATO: Automatic Train Operation.
+- RTO: Remote Train Operation
+
+---
+
 ## subject\deep_learning\deep_learning_note
 
 # Deep Learning Notes

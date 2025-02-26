@@ -1,0 +1,114 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 104,
+      "versionNonce": 424830447,
+      "isDeleted": false,
+      "id": "_ne1QiTKUGp4SwfUgFdg_",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 98.68988037109375,
+      "y": 173.07691955566406,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 136.923095703125,
+      "height": 109.23077392578125,
+      "seed": 2095186703,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1740483374159,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "diamond",
+      "version": 56,
+      "versionNonce": 599035119,
+      "isDeleted": false,
+      "id": "O8Sn4mMxqT03qIaMZu7rQ",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 537.9207153320312,
+      "y": 179.2307586669922,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 116.15380859375,
+      "height": 120.76925659179688,
+      "seed": 353226767,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1740483377487,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "arrow",
+      "version": 78,
+      "versionNonce": 212956129,
+      "isDeleted": false,
+      "id": "akuzPWO33R4DwPt-pemoT",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 232.5360107421875,
+      "y": 229.9999542236328,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 323.07696533203125,
+      "height": 4.61541748046875,
+      "seed": 2123568911,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1740483381184,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          323.07696533203125,
+          4.61541748046875
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  },
+  "files": {}
+}

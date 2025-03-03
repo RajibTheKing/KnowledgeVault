@@ -34,6 +34,7 @@
 - TODO 14_You are kindly requested to submit pictures of your house and roads in order to find the location of your house. Please submit as well photos of you and your spouse as well as pictures from your wedding.
   background-color:: green
 - *How to draw the sketch maps: On the top of the paper, please write e.g. ‘Present Address of applicant‘. Please mention your complete address. Additionally, please describe how to reach your home address from Dhaka (either in Bangla or English). Finally, please draw a road map and provide information on the means of transportation to reach your home (e.g. by bus, car, CNG)
+- LATER 15_Home apartment contract, mentioning apartment size in the document
 - Furthermore to be submitted (if applicable):
 	- TODO Affidavit before a notary public regarding a change of name
 	  background-color:: pink
